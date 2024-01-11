@@ -1,6 +1,3 @@
-const quatroElementos = document.getElementsByTagName("body");
-console.log(quatroElementos);
-
 const elementoH1 = document.getElementById("titulo");
 elementoH1.innerText = "Titulo da página";
 
