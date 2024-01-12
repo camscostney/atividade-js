@@ -1,7 +1,7 @@
 const elementoH1 = document.getElementById("titulo");
 elementoH1.innerText = "Titulo da página";
 
-const elementoA = document.getElementById("link-proz");
+const elementoA = document.querySelector("a");
 elementoA.innerText = "Link Proz";
 
 const elementoUl = document.getElementById("lista-nao-ordenada");
